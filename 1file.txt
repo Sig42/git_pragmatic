@@ -1,2 +1,11 @@
-First message.
-Second message.
+branches
+COMMIT_EDITMSG
+config
+description
+HEAD
+hooks
+index
+info
+logs
+objects
+refs
