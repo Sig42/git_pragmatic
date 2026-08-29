@@ -9,4 +9,3 @@ info
 logs
 objects
 refs
-New line added.
