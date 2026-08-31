@@ -1,2 +1,3 @@
 *.log
 for_ignore_dir
+!exceptional.log
